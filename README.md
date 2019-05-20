@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/alphafoobar/code-kata-elixir.svg?branch=master)](https://travis-ci.com/alphafoobar/code-kata-elixir)
+
 # Elixir Code Kata
 
 Requires Erlang installed and Elixir installed. Elixir plugin also available for Jetbrains IDE.
