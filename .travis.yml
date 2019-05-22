@@ -1,4 +1,6 @@
 language: elixir
-
+dist: xenial
+elixir:
+  - '1.8.2'
 otp_release:
   - 21.3
