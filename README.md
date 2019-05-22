@@ -2,7 +2,8 @@
 
 # Elixir Code Kata
 
-Requires Erlang installed and Elixir installed. Elixir plugin also available for Jetbrains IDE.
+Requires Erlang installed and Elixir installed. Elixir plugin also available for Jetbrains IDE. I'm using IntelliJ IDEA
+2019.1.
 
 ## To build
 ```bash
